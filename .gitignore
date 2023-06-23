@@ -1,0 +1,21 @@
+.gradle
+
+# Compiled class file
+*.class
+
+# IDE folders
+/.idea/
+/.metadata/
+/.sonarlint/
+*.project
+*.classpath
+
+# Ignore Gradle build output directory
+build
+history
+
+# Package Files
+*.jar
+
+# Test evidences
+target
